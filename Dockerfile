@@ -1,5 +1,5 @@
 FROM alpine 
  WORKDIR /application
 COPY mahmoud.java .
-RUN javac mahmoud.java
-CMD java mahmoud
+RUN javac mamoud.java
+CMD java mamoud
