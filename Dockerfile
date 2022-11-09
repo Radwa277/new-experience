@@ -1,5 +1,5 @@
 FROM alpine 
  WORKDIR /application
-COPY radwa.java .
-RUN javac ahmed.java
+COPY mahmoud.java .
+RUN javac mahmoud.java
 CMD java ahmed
